@@ -1,0 +1,19 @@
+{
+  "name": "tbd-book-proj",
+  "version": "1.0.0",
+  "description": "A social coding project with friends",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
